@@ -4,4 +4,6 @@
 
 ## Purpose
 
+## Installation
+
 ## How To Contribute
